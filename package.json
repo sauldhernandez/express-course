@@ -17,6 +17,8 @@
     "url": "https://github.com/sauldhernandez/express-course/issues"
   },
   "homepage": "https://github.com/sauldhernandez/express-course#readme",
-  "dependencies": {
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.0.6"
   }
 }
