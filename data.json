@@ -1,5 +1,6 @@
 {
   "name": "Tutorial user",
   "age": 21,
+  "friend": "data2.json",
   "description": "A user of this tutorial"
 }
