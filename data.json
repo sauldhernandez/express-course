@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "id": "23",
+      "name": "Item 1",
+      "price": 12323.2,
+      "inventory": 25
+    },
+    {
+      "id": "a33",
+      "name": "Item 2",
+      "price": 1232.2,
+      "inventory": 0,
+    },
+    {
+      "id": "z50",
+      "name": "Pricey Item",
+      "price": 829378723.63,
+      "inventory": 40
+    }
+  ]
+}
